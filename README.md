@@ -21,10 +21,6 @@ This program is designed to display calendars for any year. It provides a visual
 
 ## Screenshots
 
-Add relevant screenshots here to visually demonstrate your program's functionality.
-
-### Screenshots:
-
 ![Screenshot (6)](https://github.com/IsratTasnimEsha/Calendar/assets/88322977/4a7bc1f6-8fb6-4480-8877-4c60aed040cd)
 
 ![Screenshot (7)](https://github.com/IsratTasnimEsha/Calendar/assets/88322977/b71dde9a-e2b9-48e7-87a4-ebd8baaa7fc8)
