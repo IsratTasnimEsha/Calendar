@@ -35,3 +35,9 @@ This program is designed to display calendars for any year. It provides a visual
 ## Contribution
 
 Contributions are welcome! If you find any bugs or want to enhance the program, feel free to fork this repository, make your changes, and submit a pull request.
+
+## Author
+
+**Israt Tasnim Esha**  
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
