@@ -39,5 +39,4 @@ Contributions are welcome! If you find any bugs or want to enhance the program, 
 ## Author
 
 **Israt Tasnim Esha**  
-*Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+**Year:** 2020
